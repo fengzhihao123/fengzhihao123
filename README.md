@@ -2,5 +2,5 @@
 👨‍💻‍
 
 - 👏：iOS Developer
-- ⚡️：Objective - C、Swift
+- ⚡️：Objective - C、Swift、Flutter
 - 😌：🏀、📚、🎬
